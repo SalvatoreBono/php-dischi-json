@@ -1,0 +1,38 @@
+[
+    {
+        "foto_album": "https://i.discogs.com/3FH2qAmsam_hPzi_Ni6v6HcG7utI31QwKox-IJELs-w/rs:fit/g:sm/q:90/h:367/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTIx/Ni0xMzM4MjY2NjIx/LTM3NjQuanBlZw.jpeg",
+        "nome_album": "New Jersey",
+        "nome_artista": "Bon Jovi",
+        "anno_uscita": 1988
+    },
+    {
+        "foto_album": "https://m.media-amazon.com/images/I/71g40mlbinL._UF1000,1000_QL80_.jpg",
+        "nome_album": "Live at Wembley 86",
+        "nome_artista": "Queen",
+        "anno_uscita": 1992
+    },
+    {
+        "foto_album": "https://m.media-amazon.com/images/I/71kW-ZzWoKL._UF1000,1000_QL80_.jpg",
+        "nome_album": "Ten's Summoner's Tales",
+        "nome_artista": "Sting",
+        "anno_uscita": 1993
+    },
+    {
+        "foto_album": "https://m.media-amazon.com/images/I/81rIAyFN7vL._UF1000,1000_QL80_.jpg",
+        "nome_album": "Steve Gadd band",
+        "nome_artista": "Steve Gadd Band",
+        "anno_uscita": 2018
+    },
+    {
+        "foto_album": "https://upload.wikimedia.org/wikipedia/en/0/03/Iron_Maiden_-_Brave_New_World.jpg",
+        "nome_album": "Brave new World",
+        "nome_artista": "Iron Maiden",
+        "anno_uscita": 2000
+    },
+    {
+        "foto_album": "https://m.media-amazon.com/images/I/81P4G2xWjNL._UF1000,1000_QL80_.jpg",
+        "nome_album": "One more car, one more rider",
+        "nome_artista": "Eric Clapton",
+        "anno_uscita": 2002
+    }
+]
